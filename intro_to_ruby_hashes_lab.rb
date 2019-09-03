@@ -4,7 +4,7 @@ end
 
 def my_hash
   my_hash{
-    :apples => 3
+    "computer" => "Lenovo"
   }
 end
 
