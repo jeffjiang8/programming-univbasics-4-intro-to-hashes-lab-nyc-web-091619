@@ -9,7 +9,7 @@ def my_hash
 end
 
 def pioneer
-  { :name => ""
+  { :name => "Grace Hopper"}
 
 def id_generator
   # return a hash with a key :id assigned to positive integer
